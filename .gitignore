@@ -1,0 +1,12 @@
+# Local secrets and environments
+secrets
+.env
+venv/
+
+# Query outputs
+result/
+
+# OS and Python artifacts
+.DS_Store
+__pycache__/
+*.pyc

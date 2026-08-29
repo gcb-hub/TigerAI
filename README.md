@@ -2,8 +2,9 @@
 
 Supplementary files for **TigerAI: An AI-powered genetic evidence platform to support clinical development**.
 
-- TigerAI platform: <https://tigerai.bio/>
-- Drug development and human expert-curated genetic evidence data: <https://github.com/ericminikel/genetic_support/>
+For the live TigerAI platform, please visit <https://tigerai.bio/>.
+
+For the preprint, check out [PLACEHOLDER].
 
 ## Supplementary files
 

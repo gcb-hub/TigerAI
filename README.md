@@ -4,7 +4,7 @@ Supplementary files for **TigerAI: An AI-powered genetic evidence platform to su
 
 For the live TigerAI platform, please visit <https://tigerai.bio/>.
 
-For the preprint, check out <https://www.biorxiv.org/content/10.64898/2026.08.29.748046v1>.
+For the preprint, check out <https://doi.org/10.64898/2026.08.29.748046>.
 
 ## Supplementary files
 
